@@ -1,0 +1,8 @@
+---
+description: Defines UI specifications
+globs: 
+alwaysApply: false
+---
+1. All style must conform to the style of shadcn.
+2. When adding a new component, first check https://ui.shadcn.com/docs/components/accordion to see if there is an available component.
+3. When customizing styles, tailwindcss is preferred.
